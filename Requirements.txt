@@ -1,0 +1,5 @@
+Libraries required:
+
+import sys
+from PyQt5.QtWidgets import QApplication, QLabel, QLineEdit, QPushButton, QVBoxLayout, QWidget
+from nltk.chat.util import Chat, reflections
