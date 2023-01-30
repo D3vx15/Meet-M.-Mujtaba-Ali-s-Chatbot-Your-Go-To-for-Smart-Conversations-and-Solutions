@@ -30,6 +30,7 @@ Another objective of my project is to use the chatbot to provide information and
 
 In conclusion, my project on chatbots is focused on creating a cutting-edge AI tool that can provide assistance and information to users in a natural and intuitive manner. By improving customer service and making information easily accessible, I hope to make a positive impact on people's lives and contribute to the advancement of technology.
 
+Linkedin: https://www.linkedin.com/pulse/meet-mmujtaba-alis-chatbot-your-go-smart-solutions-mujtaba-ali/?published=t
 
 
 ![Screenshot (257)](https://user-images.githubusercontent.com/98379001/215481784-6341528d-ed53-4a48-85ab-6b4866e0e44a.png)
