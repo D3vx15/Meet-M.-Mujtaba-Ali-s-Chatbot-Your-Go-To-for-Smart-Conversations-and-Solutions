@@ -17,6 +17,7 @@ Overall, my objective for creating a chatbot is to use technology for good, impr
 —
 Project Description:
 —
+
 My project on chatbots is focused on developing an artificial intelligence (AI) powered tool that can interact with users through natural language. The chatbot will be designed to provide assistance and information on a wide range of topics, from finding the best restaurants in town to answering frequently asked questions about a particular product or service.
 
 To achieve this, I am utilizing the latest advancements in AI and natural language processing (NLP) technology. The chatbot will be trained on a vast amount of data and will be able to understand and respond to user queries in a human-like manner. This will make the conversation between the user and the chatbot feel more natural and intuitive.
@@ -30,3 +31,6 @@ Another objective of my project is to use the chatbot to provide information and
 In conclusion, my project on chatbots is focused on creating a cutting-edge AI tool that can provide assistance and information to users in a natural and intuitive manner. By improving customer service and making information easily accessible, I hope to make a positive impact on people's lives and contribute to the advancement of technology.
 
 
+
+![Screenshot (257)](https://user-images.githubusercontent.com/98379001/215481784-6341528d-ed53-4a48-85ab-6b4866e0e44a.png)
+![Screenshot (254)](https://user-images.githubusercontent.com/98379001/215481789-55922a24-0743-4ed1-9945-bf42ffb983cf.png)
