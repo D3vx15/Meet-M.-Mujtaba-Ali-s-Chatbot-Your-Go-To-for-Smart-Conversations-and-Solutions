@@ -1,4 +1,4 @@
-# Meet M.Mujtaba-Ali's Chatbot Your Go To for Smart Conversations and Solutions
+# Meet Winny The AI Chatbot
 
 —
 My objective for making a ChatBot:
